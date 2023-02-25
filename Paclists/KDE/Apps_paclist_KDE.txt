@@ -1,3 +1,4 @@
+corectrl
 filezilla
 firefox
 flatpak
